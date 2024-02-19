@@ -1,0 +1,55 @@
+---
+title: "Zijie's Website"
+format: html
+---
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+<link rel="stylesheet" href="style.css">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
+
+# Welcome to my channel!
+
+## [About me](Aboutme.html)
+
+![](img/WechatIMG238.jpg){.profile-photo width="200" height="auto"}
+
+I am a student of into mason. My major is data analytics engineering. I hope to complete my master degree in mason. Be a data analyst in the future.
+
+## [My project](projects.html)
+
+### Design and Implementation of a Public Library Management Database System
+
+### October 2023 – November 2023
+
+•Expert in Large Dataset Management: Demonstrated excellence in handling vast datasets of books and user information, ensuring robust system stability and impeccable data integrity, pivotal in supporting data-driven decisions.
+
+•Query: I improved system performance by optimizing SQL queries, such as using appropriate indexing and query rewriting techniques to speed up queries and reduce system load.
+
+•Real-world understanding of data management applications: I apply theoretical knowledge to real-world situations to ensure that database systems meet real-world business requirements and operational challenges.
+
+### Optimizing Public-Sector Investment Decisions through Goal Programming: A Multi-Objective Approach
+### September 2023 – December 2023
+•Linear Algebra: Skillfully employed the Simplex Method to optimize project workflows, achieving a huge increase in operational efficiency and significantly reducing resource allocation errors in linear programming tasks.
+
+•Python Programming: Developed advanced Python algorithms that streamlined the investment project's decision-making process, enhancing efficiency and delivering optimal financial solutions.
+
+•Lingo software application: I used Lingo for dynamic sensitivity analysis, which helps in evaluating the impact of changes in decision variables on the final outcome, thus enhancing the usefulness and flexibility of the model.
+
+## Contact Information about me
+
+-   Email: <i class="fas fa-envelope"></i> [zhe20\@gmu.edu](mailto:zhe20@gmu.edu)
+-   LinkedIn: <i class="fab fa-linkedin"></i> [Linkedin](https://www.linkedin.com/in/henryhe62/)
+-   GitHub: <i class="fab fa-github"></i> [HenryheGITHUB](https://github.com/iamhenryhe)
+
+<button onclick="showMessage()">
+
+Leave your message!
+
+</button>
+
+::: {#messageArea}
+:::
